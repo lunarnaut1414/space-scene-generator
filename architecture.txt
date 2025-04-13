@@ -12,7 +12,6 @@ You’ll need:
 - **Noise**: For simulating sensor noise  
 - **numpy/PyTorch**: For numerical computations  
 
-
 ### Notes:
 - **Lighting:** Simplified model using basic distance falloff. Use PBR shaders for realism.
 - **Materials:** Add more material types (e.g., glass, plastic).
