@@ -1,7 +1,4 @@
-from engine import SpaceCamera
-from engine import Spacecraft
-from engine import Scene
-from engine import SpaceSceneGenerator
+from sceneGenerator import SpaceSceneGenerator
 
 generator = SpaceSceneGenerator()
 frame = generator.generate()
