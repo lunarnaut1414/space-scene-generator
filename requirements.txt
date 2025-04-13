@@ -1,0 +1,23 @@
+# pip install -r requirements.txt
+# python3.13 environment
+
+# 3D Graphics
+ModernGL
+PyOpenGL
+Panda3D
+
+# Orbit Calculation
+poliastro
+astropy
+
+# Model Loading
+pywavefront
+trimesh
+
+# Window Management
+glfw
+pygame
+
+# Video Processing
+ffmpeg-python
+moviepy
